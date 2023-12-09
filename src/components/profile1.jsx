@@ -17,7 +17,7 @@ const Profile = () => {
           <p className="text-md text-yellow-300">Blockchain Developer</p>
           <div className="h-24 overflow-hidden text-white text-sm">
             {/* Placeholder for bio content */}
-            Your bio information goes here. You can add a brief description about yourself or your page.
+            Blockchain Developer | SDE 1 | Frontend Developer | ReactJS | Open Source Contributor
           </div>
         </div>
       </div>
@@ -33,7 +33,7 @@ const Profile = () => {
             Telegram
           </button>
         </a>
-        <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.linkedin.com/in/neha-singh-0xnehasingh-eth-60b4451a9/" target="_blank" rel="noopener noreferrer">
           <button className="w-full bg-yellow-500 text-white font-semibold py-3 my-2 rounded-full">
             LinkedIn
           </button>
